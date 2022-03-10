@@ -12,3 +12,5 @@ The design choices were entirely up to me.
 
 This was the first time I used Flexbox and responsive design without any design specs or guidance, and it helped solidify my 
 Flexbox skills. 
+
+see page here --> https://kmlibin.github.io/Wild-Meadows-Floral-Company-Site/
