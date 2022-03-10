@@ -1,4 +1,5 @@
-#Wild Meadows Floral Company Site#
+Wild Meadows Floral Company Site
+
 
 This was a Challenge Project set by Codecademy. I used Flexbox and responsive design (along with HTML and CSS)to complete the page, and I was also
 required to include these things:
